@@ -1,3 +1,10 @@
 User-agent: *
 Allow: /
-Sitemap: https://sarakinhceo-gif.github.io/bp-t3b02-gy-shirts-rv//sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://gayang-shirt-guide.hardcoreroom.com/sitemap.xml
